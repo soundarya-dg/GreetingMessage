@@ -1,0 +1,19 @@
+body{
+    margin: 0px;
+    width: 100%;
+    height: 100%;
+    padding-bottom: 0px;
+    background-color: rgb(68, 142, 145);
+   }
+
+.alert{
+        font-size: 35px;
+        text-align: center;
+        color: rgb(214, 21, 79);
+        font-family: 'Orelega One', cursive;
+        font-weight: 400;
+    }
+
+    
+
+   
